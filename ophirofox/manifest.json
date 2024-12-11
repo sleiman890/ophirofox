@@ -107,7 +107,7 @@
     , "https://nouveau-europresse-com.ezproxy.vetagro-sup.fr/*"
     , "https://nouveau-europresse-com.ezproxy.utc.fr/*"
     , "https://nouveau-europresse-com.ezproxy.ulb.ac.be/*"
-  ],
+  ], https://nouveau-europresse-com.proxy.ufabc.com.br
   "background": {
     "scripts": [
       "background.js"
